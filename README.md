@@ -156,7 +156,7 @@ Rebirth into a new body
 
 God’s ultimate mercy
 
+## Citation
 
-**DOI:** https://doi.org/10.5281/zenodo.17663719
-
+Upadhyay, P. U. (2025). Jesus's words about hell. https://doi.org/10.5281/zenodo.17663719
 
