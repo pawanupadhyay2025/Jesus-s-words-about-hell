@@ -1,5 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17663719.svg)](https://doi.org/10.5281/zenodo.17663719)
 
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--9077--5924-A6CE39?logo=orcid)](https://orcid.org/0009-0007-9077-5924)
+
 
 # Jesus's words about hell 
 
