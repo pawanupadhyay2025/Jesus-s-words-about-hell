@@ -2,6 +2,9 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--9077--5924-A6CE39?logo=orcid)](https://orcid.org/0009-0007-9077-5924)
 
+[![OSF](https://img.shields.io/badge/OSF-RK6DC-blue?logo=osf)](https://doi.org/10.17605/osf.io/rk6dc)
+
+[![Archive](https://img.shields.io/badge/Archive-Reincarnation-blue?logo=internetarchive)](https://archive.org/details/resurrectionandreincarnation)
 
 # Jesus's words about hell 
 
