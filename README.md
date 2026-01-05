@@ -1,4 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17663719.svg)](https://doi.org/10.5281/zenodo.17663719)
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--9077--5924-A6CE39?logo=orcid)](https://orcid.org/0009-0007-9077-5924)
 
@@ -161,7 +160,9 @@ Rebirth into a new body
 
 God’s ultimate mercy
 
-## Citation
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--9077--5924-A6CE39?logo=orcid)](https://orcid.org/0009-0007-9077-5924)
 
-Upadhyay, P. U. (2025). Jesus's words about hell. https://doi.org/10.5281/zenodo.17663719
+[![OSF](https://img.shields.io/badge/OSF-RK6DC-blue?logo=osf)](https://doi.org/10.17605/osf.io/rk6dc)
+
+[![Archive](https://img.shields.io/badge/Archive-Reincarnation-blue?logo=internetarchive)](https://archive.org/details/resurrectionandreincarnation)
 
