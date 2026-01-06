@@ -166,3 +166,10 @@ God’s ultimate mercy
 
 [![Archive](https://img.shields.io/badge/Archive-Reincarnation-blue?logo=internetarchive)](https://archive.org/details/resurrectionandreincarnation)
 
+![Copyright](https://img.shields.io/badge/Copyright-©%202025–2026%20Pawan%20Upadhyay-blue)
+![License](https://img.shields.io/badge/License-CC%20BY--ND%204.0-green)
+
+Copyright © 2025–2026 Pawan Upadhyay  
+Licensed under Creative Commons Attribution–NoDerivatives 4.0 International  
+https://creativecommons.org/licenses/by-nd/4.0/
+
