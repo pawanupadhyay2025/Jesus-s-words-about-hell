@@ -5,6 +5,9 @@
 
 [![Archive](https://img.shields.io/badge/Archive-Reincarnation-blue?logo=internetarchive)](https://archive.org/details/resurrectionandreincarnation)
 
+[![Research Resume](https://img.shields.io/badge/Research%20Resume-Archive.org-blue?style=flat-square&logo=internetarchive)](https://archive.org/details/my-research-resume)
+
+
 # Jesus's words about hell 
 
 Punishment of Hell is different for every souls. Those who commit heinous crimes fall in the hell forever and ever. Some persons do less sins and Some persons do more sins. Some sins are unforgivable and some sins are forgivable. I am presenting my research about hell according to Jesus's words.  
